@@ -400,6 +400,7 @@ img {
 .footer-logo-part {
   color: #f4f4fd;
 }
+
 .footer-text {
   font-weight: 400;
   font-size: 16px;
@@ -434,4 +435,10 @@ img {
 .link-social-footer:hover,
 .link-social-footer:focus {
   background-color: #31d0aa;
+}
+.container-wrapper {
+  display: flex;
+}
+.container-footer {
+  margin-right: 120px;
 }
